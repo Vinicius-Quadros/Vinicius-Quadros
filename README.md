@@ -10,6 +10,8 @@ Desenvolvedor de software com foco em engenharia de software! 🎮 Apaixonado po
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Quadros&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vrquadros)](https://www.linkedin.com/in/vrquadros)
